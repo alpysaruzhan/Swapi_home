@@ -1,0 +1,31 @@
+
+.h{
+    background-color: rgb(198, 188, 255);
+    display: flex;
+    h1{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    input{
+        margin-top: 20px;
+        margin-left: 900px;
+        height: 30px;
+        border: none;
+    }
+    button{
+        border: none;
+        margin-top: 20px;
+        height: 32px;
+    }
+}
+
+
+.film{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 400px;
+    height: 450px;
+    background-color: rgb(198, 188, 255);
+    color: black;
+}
